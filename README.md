@@ -124,7 +124,7 @@ These results highlight the importance of model design and experimentation when 
 
 - Python  
 - NumPy  
-- TensorFlow / Keras (or PyTorch)  
+- Keras  
 - Matplotlib  
 - Scikit-learn  
 - Jupyter Notebook  
@@ -136,7 +136,7 @@ These results highlight the importance of model design and experimentation when 
 Install dependencies:
 
 ```
-pip install numpy matplotlib scikit-learn tensorflow
+pip install numpy matplotlib scikit-learn keras
 ```
 
 Launch Jupyter Notebook:
